@@ -1,0 +1,15 @@
+QUY TRÌNH XỬ LÝ SỰ CỐ IT NỘI BỘ
+
+Nhân viên báo sự cố qua portal Service Desk hoặc máy lẻ 115. Cung cấp tên thiết bị, thời điểm, triệu chứng, mức ảnh hưởng và ảnh chụp không chứa dữ liệu nhạy cảm. Mất thiết bị, phishing, gửi nhầm dữ liệu hoặc nghi ngờ truy cập trái phép phải báo trong 30 phút.
+
+Service Desk phân loại: P1 khi nhiều người không thể làm việc hoặc có nguy cơ dữ liệu nghiêm trọng; P2 khi một phòng ban hoặc chức năng chính bị gián đoạn; P3 khi ảnh hưởng một người và có cách tạm; P4 cho yêu cầu hướng dẫn. Mức độ có thể thay đổi khi có bằng chứng mới.
+
+Bước đầu là xác nhận ticket, thu thập bằng chứng và bảo vệ an toàn. Không yêu cầu người dùng tắt bảo vệ, gửi mật khẩu hay cài phần mềm không được duyệt. Với nghi ngờ mã độc, hướng dẫn ngắt mạng nhưng giữ thiết bị bật để nhóm bảo mật thu thập bằng chứng.
+
+L1 kiểm tra trạng thái dịch vụ, tài khoản, kết nối và kho tri thức. Nếu chưa xử lý P1 sau 15 phút thì chuyển L2 và thông báo Incident Manager; P2 chuyển sau 60 phút. Sự cố bảo mật luôn đồng thời chuyển nhóm An toàn thông tin.
+
+Mọi thay đổi phải ghi người thực hiện, thời gian, lệnh hoặc cấu hình, kết quả và kế hoạch hoàn tác. Không thử trực tiếp trên hệ thống sản xuất nếu chưa đánh giá rủi ro. Sau khôi phục, xác minh với người dùng và theo dõi đủ thời gian trước khi đóng.
+
+P1 cần báo cáo nguyên nhân gốc trong ba ngày làm việc. Báo cáo mô tả dòng thời gian, tác động, nguyên nhân gốc, vì sao kiểm soát không phát hiện, hành động khắc phục, chủ sở hữu và hạn hoàn thành. Mục tiêu là ngăn lặp lại, không đổ lỗi.
+
+Tài liệu đào tạo giả lập – An Phát Digital – Phiên bản 1.0

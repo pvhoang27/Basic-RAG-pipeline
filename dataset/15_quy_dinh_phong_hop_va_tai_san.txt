@@ -1,0 +1,15 @@
+QUY ĐỊNH PHÒNG HỌP VÀ TÀI SẢN
+
+Phòng họp được đặt qua lịch công ty, ghi mục đích, số người và thiết bị cần dùng. Cuộc họp trên 30 phút cần có chương trình; người tổ chức hủy lịch sớm nếu không dùng. Sau 10 phút không có người đến và không báo, phòng có thể được nhóm khác sử dụng.
+
+Người dùng giữ phòng sạch, xóa bảng, trả ghế và mang rác ra đúng nơi. Không để tài liệu Mật trên bàn hoặc màn hình. Cuộc họp có khách ngoài cần người nội bộ đón, hướng dẫn và bảo đảm khách không tự do vào khu vực hạn chế.
+
+Thiết bị trình chiếu, camera và bộ chuyển đổi là tài sản chung. Kiểm tra trước cuộc họp quan trọng và báo Hành chính nếu hỏng. Không tự tháo lắp, mang ra khỏi phòng hoặc cài phần mềm lên thiết bị phòng họp.
+
+Laptop, màn hình và phụ kiện cấp cá nhân được ghi trong biên bản. Nhân viên bảo quản, không cho người khác mượn dài hạn và báo Service Desk khi mất hoặc hỏng. Mất thiết bị phải báo trong 30 phút để khóa truy cập từ xa.
+
+Mượn thiết bị dùng chung qua AP-Work, nêu thời gian, mục đích và người chịu trách nhiệm. Khi nhận và trả phải kiểm tra tình trạng. Hư hỏng do hao mòn được xử lý theo bảo hành; hư hỏng do sử dụng sai được xem xét theo hồ sơ cụ thể.
+
+Khi chuyển vị trí hoặc nghỉ việc, quản lý và Service Desk rà soát tài sản, phụ kiện, quyền truy cập và dữ liệu. Nhân viên trả tài sản trước cuối ngày làm việc cuối; không tự xóa hoặc cài lại máy vì IT cần sao lưu và xử lý an toàn.
+
+Tài liệu đào tạo giả lập – An Phát Digital – Phiên bản 1.0

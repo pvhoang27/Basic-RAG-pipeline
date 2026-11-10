@@ -1,0 +1,15 @@
+KỊCH BẢN CHĂM SÓC KHÁCH HÀNG
+
+Khi tiếp nhận, nhân viên chào khách, xác nhận tên, công ty, kênh liên hệ và mục đích. Tóm tắt lại để kiểm tra hiểu đúng: “Tôi hiểu rằng anh/chị đang gặp… và ảnh hưởng là…”. Không hứa thời gian xử lý trước khi xác định mức độ và SLA.
+
+Với khách mới triển khai, liên hệ sau kickoff 3 ngày để xác nhận đầu mối, kế hoạch dữ liệu và lịch đào tạo. Sau go-live 7 ngày, hỏi về đăng nhập, quy trình quan trọng, lỗi còn mở và mức độ sử dụng. Mọi cam kết ghi vào AP-CRM hoặc AP-Service.
+
+Với khiếu nại, lắng nghe không ngắt lời, thừa nhận tác động và xin lỗi về trải nghiệm mà không suy đoán trách nhiệm. Thu thập mã ticket, thời gian, người dùng bị ảnh hưởng và kết quả mong muốn. Chuyển cấp nếu có nguy cơ mất dữ liệu, bảo mật, pháp lý hoặc khách hàng ngừng sử dụng.
+
+Cập nhật sự cố gồm năm phần: trạng thái hiện tại, phạm vi ảnh hưởng, việc đã hoàn thành, bước kế tiếp và thời gian cập nhật tiếp theo. Nếu chưa có nguyên nhân, nói rõ đang điều tra. Không dùng câu “hệ thống bình thường” khi khách vẫn có bằng chứng lỗi.
+
+Trước gia hạn 90 ngày, Customer Success rà soát mức sử dụng, ticket, đào tạo, mục tiêu kinh doanh và rủi ro. Trước 60 ngày tổ chức buổi đánh giá giá trị; trước 45 ngày gửi phương án thương mại; trước 30 ngày xác nhận quy trình mua sắm của khách.
+
+Kết thúc cuộc trao đổi, tóm tắt nội dung, người chịu trách nhiệm và thời hạn. Gửi email xác nhận khi có cam kết quan trọng. Không đưa thông tin khách hàng khác, dữ liệu nội bộ hoặc nhận định cá nhân vào trao đổi.
+
+Tài liệu đào tạo giả lập – An Phát Digital – Phiên bản 1.0

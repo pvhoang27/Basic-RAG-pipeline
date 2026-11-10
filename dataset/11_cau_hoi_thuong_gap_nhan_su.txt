@@ -1,0 +1,33 @@
+CÂU HỎI THƯỜNG GẶP – NHÂN SỰ
+
+1. Khi nào công ty trả lương?
+Lương được chuyển vào ngày làm việc cuối cùng của tháng. Nếu thông tin tài khoản thay đổi, nhân viên cập nhật với HR trước ngày 20. Thắc mắc bảng lương gửi payroll@anphat.example trong năm ngày làm việc kể từ ngày nhận.
+
+2. Tôi có bao nhiêu ngày phép?
+Nhân viên chính thức có 12 ngày phép cho một năm làm việc đủ 12 tháng. Người vào giữa năm được tính theo tỷ lệ. Tối đa năm ngày chuyển sang năm sau và phải dùng trước 31/3.
+
+3. Xin nghỉ thế nào?
+Tạo yêu cầu trên AP-Work, chọn loại nghỉ, thời gian và người bàn giao. Nghỉ một ngày báo trước một ngày làm việc; hai đến ba ngày báo trước ba ngày; trên ba ngày báo trước bảy ngày. Chỉ nghỉ sau khi đơn ở trạng thái Đã duyệt, trừ khẩn cấp.
+
+4. Có được làm từ xa không?
+Sau thử việc, nhân viên có thể đăng ký tối đa hai ngày mỗi tuần nếu vị trí phù hợp và quản lý duyệt trước 16:00 ngày liền trước. Nhân viên phải trực tuyến, tham gia họp, bảo vệ dữ liệu và dùng VPN.
+
+5. Quên chấm công thì làm gì?
+Tạo yêu cầu điều chỉnh trong AP-Work trong ba ngày làm việc, nêu thời gian và lý do, gửi quản lý xác nhận. Yêu cầu lặp lại nhiều lần có thể được HR trao đổi để tìm nguyên nhân.
+
+6. Tôi cần giấy xác nhận công tác?
+Tạo yêu cầu HR ít nhất ba ngày làm việc trước hạn, nêu mục đích, ngôn ngữ và nơi nhận. HR chỉ xác nhận dữ liệu thuộc hồ sơ công ty; thông tin thu nhập cần đúng quy trình bảo mật.
+
+7. Đăng ký đào tạo ra sao?
+Trao đổi nhu cầu với quản lý, nêu mục tiêu, nội dung, chi phí và cách áp dụng. Đào tạo có chi phí cần ngân sách và phê duyệt trước; hóa đơn đứng tên công ty theo hướng dẫn Tài chính.
+
+8. Thay đổi thông tin cá nhân?
+Cập nhật địa chỉ, tài khoản ngân hàng, người phụ thuộc hoặc giấy tờ qua kênh HR an toàn. Không gửi ảnh giấy tờ vào nhóm chat. HR thông báo hồ sơ cần bổ sung và thời điểm hiệu lực.
+
+9. Phản ánh hành vi không phù hợp?
+Có thể liên hệ quản lý, HR hoặc ethics@anphat.example. Thông tin được giới hạn cho người cần xử lý. Công ty không chấp nhận trả đũa người phản ánh thiện chí.
+
+10. Khi nghỉ việc cần làm gì?
+Thực hiện thời hạn báo trước, kế hoạch bàn giao, trả thiết bị và hoàn tất công nợ. Tài khoản được thu hồi trong ngày cuối. Nhân viên không giữ dữ liệu, mã nguồn hoặc tài liệu khách hàng sau khi rời công ty.
+
+Tài liệu đào tạo giả lập – An Phát Digital – Phiên bản 1.0

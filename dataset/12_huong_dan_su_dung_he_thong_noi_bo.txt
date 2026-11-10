@@ -1,0 +1,17 @@
+HƯỚNG DẪN HỆ THỐNG NỘI BỘ
+
+AP-Work là nơi chấm công, xin nghỉ, phê duyệt chi phí và theo dõi yêu cầu nội bộ. Đăng nhập bằng email công ty và MFA. Trang Việc của tôi hiển thị yêu cầu chờ xử lý; người phê duyệt cần phản hồi trong thời hạn thay vì để nhân viên nhắc qua chat.
+
+Để xin nghỉ, mở Nhân sự > Nghỉ phép > Tạo yêu cầu, kiểm tra số dư, chọn thời gian, loại nghỉ và người bàn giao. Đơn lưu nháp chưa được gửi. Sau khi gửi, theo dõi lịch sử phê duyệt; mọi thay đổi đều được ghi nhật ký.
+
+Để gửi chi phí, mở Tài chính > Chi phí, chọn chuyến công tác hoặc trung tâm chi phí, nhập từng khoản và đính kèm hóa đơn rõ nét. Không gộp nhiều hóa đơn thành một dòng. Hồ sơ bị trả lại phải sửa đúng ghi chú rồi gửi lại.
+
+AP-CRM quản lý lead, cơ hội, báo giá và gia hạn. Sales cập nhật bước tiếp theo, giá trị, xác suất và ngày dự kiến. Không lưu bí mật khách hàng trong trường ghi chú thông thường; tài liệu hợp đồng đặt trong thư mục được phân quyền.
+
+AP-Service quản lý ticket. Chọn đúng khách hàng, sản phẩm, mức độ và ảnh hưởng. Chỉ dùng P1 khi dịch vụ sản xuất ngừng diện rộng, mất dữ liệu hoặc có sự cố bảo mật nghiêm trọng. Mọi trao đổi quan trọng phải được ghi trong ticket.
+
+Kho tài liệu nội bộ dùng để lưu chính sách và biểu mẫu. Tìm theo tiêu đề, chủ sở hữu và ngày hiệu lực. Không tải hàng loạt về máy cá nhân. Khi chia sẻ liên kết, chọn đúng nhóm và thời hạn; tài liệu Mật không bật liên kết công khai.
+
+Khi không đăng nhập được, kiểm tra mạng, thời gian thiết bị và ứng dụng MFA. Nếu vẫn lỗi, liên hệ Service Desk máy lẻ 115 và cung cấp ảnh lỗi, thời điểm, thiết bị. Không gửi mật khẩu hoặc OTP.
+
+Tài liệu đào tạo giả lập – An Phát Digital – Phiên bản 1.0
